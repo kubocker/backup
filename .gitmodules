@@ -1,0 +1,9 @@
+[submodule "kbk_backup"]
+	path = kbk_backup
+	url = git@github.com:kubocker/kbk_backup.git
+[submodule "asset_backup"]
+	path = asset_backup
+	url = git@github.com:kubocker/asset_backup.git
+[submodule "study_backup"]
+	path = study_backup
+	url = git@github.com:kubocker/study_backup.git
